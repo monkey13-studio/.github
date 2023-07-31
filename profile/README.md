@@ -1,2 +1,2 @@
-# Monkey13 Studio
+# Monkey13
 #### WEB STUDIO
